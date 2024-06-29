@@ -1,13 +1,9 @@
 <div align="center">
-  <h1>flowbite-pro-nextjs-admin-dashboard</h1>
+  <h1>Thirdbracket Admin Dashboard</h1>
   <p>
-    Get started with a premium admin dashboard layout built with Next.js, Tailwind CSS and Flowbite featuring 21 example pages including charts, kanban board, mailing system, and more.
+    Step into Third Bracket Solutions, a UK-based modern web infrastructure development service born from the collective efforts of a group of nomads who conquered platforms like Upwork and Fiverr
   </p>
-  <p>
-    <a href="https://discord.com/invite/4eeurUVvTy">
-      <img src="https://img.shields.io/discord/902911619032576090?color=%237289da&label=Discord" alt="Flowbite on Discord" />
-    </Link>
-  </p>
+ 
 </div>
 <div align="center">
   <a href="https://flowbite-nextjs-admin-dashboard.vercel.app/">

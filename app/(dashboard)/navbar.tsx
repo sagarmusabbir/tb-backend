@@ -78,7 +78,7 @@ export function DashboardNavbar() {
                 height={32}
               />
               <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">
-                Flowbite
+                Third Bracket
               </span>
             </Navbar.Brand>
             <form className="hidden lg:block lg:pl-2">
